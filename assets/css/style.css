@@ -41,6 +41,7 @@ a:hover {
   text-decoration: none;
 }
 
+
 img {
   user-select: none;
   pointer-events: none;
@@ -312,7 +313,7 @@ svg {
 
 #header.header-top h1 {
   margin-right: auto;
-  font-size: 36px;
+  font-size: 30px;
 }
 
 #header.header-top .container {
@@ -914,6 +915,18 @@ section .container {
   right: 15px;
 }
 
+.card {
+  height: 100%;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -1131,3 +1144,9 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.project-container .project-title {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+}		
