@@ -8,4 +8,4 @@ My GitHub personal website. You can check it out [here](https://hkolatan.github.
 
 ## License
 
-MIT License © 2023
+MIT License © 2025
